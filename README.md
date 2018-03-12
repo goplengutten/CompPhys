@@ -1,3 +1,5 @@
 # Computational physics projects
 
-The PDS's of a couple of the prosjects made in fys3150 and fys4411 at UiO.
+The PDF's of a couple of the prosjects made in fys3150 and fys4411 at UiO.
+
+ALl projects are made in collaboration with Håkon Emil Kristiansen, while the second project in fys4411 was made in collaboration with Håkon Emil Kristiansen and John-Anders Stende.
